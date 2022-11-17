@@ -232,15 +232,7 @@ $$&lt;/p>
 &lt;p>second footnote is here.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>About</title><link>https://guangwuzhang.github.io/about/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>https://guangwuzhang.github.io/about/</guid><description>&lt;p>Hugo is a static site engine written in Go.&lt;/p>
-&lt;p>It makes use of a variety of open source projects including:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/spf13/cobra">Cobra&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/spf13/viper">Viper&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/spf13/jWalterWeatherman">J Walter Weatherman&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/spf13/cast">Cast&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Learn more and contribute on &lt;a href="https://github.com/gohugoio">GitHub&lt;/a>.&lt;/p></description></item><item><title>How to Contribute</title><link>https://guangwuzhang.github.io/post/how-to-contribute/</link><pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><guid>https://guangwuzhang.github.io/post/how-to-contribute/</guid><description>&lt;h2 id="contributing-to-jane">Contributing to Jane&lt;/h2>
+&lt;/div></description></item><item><title>About</title><link>https://guangwuzhang.github.io/about/</link><pubDate>Tue, 15 Nov 2022 21:38:52 +0800</pubDate><guid>https://guangwuzhang.github.io/about/</guid><description>&lt;p>Here are some of my sharing.&lt;/p></description></item><item><title>How to Contribute</title><link>https://guangwuzhang.github.io/post/how-to-contribute/</link><pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><guid>https://guangwuzhang.github.io/post/how-to-contribute/</guid><description>&lt;h2 id="contributing-to-jane">Contributing to Jane&lt;/h2>
 &lt;p>There are many ways to contribute to the Jane theme: submitting pull requests, reporting issues, providing new translations, and creating suggestions.&lt;/p>
 &lt;h2 id="build-and-run">Build and Run&lt;/h2>
 &lt;p>If you want to understand how Jane works, you&amp;rsquo;ll want to get the source, build it, and run locally.&lt;/p>
