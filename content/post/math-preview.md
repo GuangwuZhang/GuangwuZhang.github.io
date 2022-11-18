@@ -17,10 +17,6 @@ katex: true
 # See https://gohugo.io/content-management/formats/#mmark
 markup: mmark
 
-menu:
-  main:
-    parent: "docs"
-    weight: 5
 ---
 
 [KaTeX and MathJax Comparison Demo, currently processed as KaTex](https://www.intmath.com/cg5/katex-mathjax-comparison.php)
