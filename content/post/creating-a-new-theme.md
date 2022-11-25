@@ -1,12 +1,11 @@
 ---
 author: "GuangwuZhang"
-date: 2014-09-28
+date: 2022-11-25
 title: "Creating a New Theme"
 tags: [
     "go",
     "golang",
     "templates",
-    "themes",
     "development",
 ]
 categories: [
@@ -35,7 +34,7 @@ this is a command
 ## edit the file
 $vi foo.md
 +++
-date = "2014-09-28"
+date = "2022-11-25"
 title = "creating a new theme"
 +++
 
@@ -45,7 +44,7 @@ bah and humbug
 ## show it
 $ cat foo.md
 +++
-date = "2014-09-28"
+date = "2022-11-25"
 title = "creating a new theme"
 +++
 
